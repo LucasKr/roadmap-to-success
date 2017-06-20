@@ -45,3 +45,10 @@ And here what will have from the backend roadmap:
 * Architectural Patterns
 * Search Engines
 * More tests techniques! 
+
+In folder `post` we have explanations, scenarios, and other things about all the subjects above, in each post we have linked the folders with code as samples to implement the subject. So, follow this folder to learn about some subject.
+
+**Personal Goals**
+- Be a better developer
+- Improve Inglish
+- Help others with the content produced
