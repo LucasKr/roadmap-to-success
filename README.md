@@ -50,5 +50,5 @@ In folder `post` we have explanations, scenarios, and other things about all the
 
 **Personal Goals**
 - Be a better developer
-- Improve Inglish
+- Improve English
 - Help others with the content produced
